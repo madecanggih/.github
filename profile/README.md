@@ -1,12 +1,16 @@
-## Hi! Hello! 👋
+# Made Canggih 
 
-<!--
+Hi! Hello! 
 
-**Here are some ideas to get you started:**
+It's Made Canggih, I want to welcome you to my Organization Repository!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Every free tutorials created by me will be hosted here, so feel free to find and use any resource you can find here.
+
+## Discussion
+
+If you have any questions, don't hesitate to ask me on the [discussion section](https://github.com/orgs/madecanggih/discussions) of this Organization Repository.
+
+## Donation
+
+Support me on [Nih Buat Jajan](https://www.nihbuatjajan.com/madecanggih)!
+
